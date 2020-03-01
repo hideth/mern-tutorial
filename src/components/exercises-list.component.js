@@ -1,10 +1,5 @@
 import React, { Component } from "react";
 import axios from "axios";
-import Tab from 'react-bootstrap/Tab';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import ListGroup from 'react-bootstrap/ListGroup';
-import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 
 const Exercise = props => (
